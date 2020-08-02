@@ -17,7 +17,7 @@ Xilinx  spartan 7 xc7s15ftg196-1
 4.仓库目录
 Sourcecode 存放项目源代码
 ExecutableFiles 存放比特流文件
-
+Images 存放仿真波形、FPGA运行情况图片
 
 
 =======
